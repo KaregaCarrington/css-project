@@ -1,0 +1,20 @@
+
+
+#main {
+  width: 80%;
+  float: left;
+}
+
+#sidebar {
+  width: 20%;
+  float: left;
+}
+
+footer {
+  clear: both;
+}
+
+nav ul li {
+  display: inline;
+}
+
