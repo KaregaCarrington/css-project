@@ -1,20 +1,33 @@
 
-
 #main {
   width: 80%;
   float: left;
+  background: red;
 }
 
 #sidebar {
   width: 20%;
   float: left;
+  background: green;
 }
 
 footer {
   clear: both;
+  background: blue
+}
+
+nav ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  background: purple;
 }
 
 nav ul li {
   display: inline;
+  background: yellow;
 }
 
+#content {
+  background: green;
+  overflow: hidden;
+}
