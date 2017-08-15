@@ -2,7 +2,7 @@
 #main {
   width: 70%;
   float: left;
-  background: red;
+  background: #F3EFF0;
   padding: 2%;
 }
 
@@ -24,7 +24,8 @@
 
 footer {
   clear: both;
-  background: blue
+  background: #514F50;
+  color: white;
 }
 
 nav ul {
